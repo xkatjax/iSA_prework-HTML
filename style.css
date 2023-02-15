@@ -29,4 +29,8 @@ section, header{
     margin-right: auto;
 }
 
- 
+ header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
